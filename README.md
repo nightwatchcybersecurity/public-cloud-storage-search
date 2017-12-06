@@ -14,9 +14,9 @@ The information that this tool reveals is being indexed by Google and not
 being collected by this tool. If you want something to be removed,
 please contact Google directly.
 
-*** This tool is not affiliated with or endorsed by Google, all trademarks
+**This tool is not affiliated with or endorsed by Google, all trademarks
 remain property of their owners. Please use responsibly in accordance with
-the applicable laws. We take no responsibility for your use of this tool. ***
+the applicable laws. We take no responsibility for your use of this tool.**
 
 # How it works
 This tool uses Google's CSE to restrict searches against content being
