@@ -19,19 +19,19 @@ of the CSE control panel. Below you will find the patterns and their labels.
 Any of them can be used in a Google search with the "site" operator - so for
 example: "site:rackcdn.com".
 
-|  Label       | Pattern                        |
-|--------------|--------------------------------|
-| aws          | \*.s3.amazonaws.com/*          |
-| azure        | onedrive.live.com/*            |
-| azure        | \*.1drv.com/*                  |
-| azure        | \*.blob.core.windows.net/*     |
-| digitalocean | *.digitaloceanspaces.com/*     |
-| dreamhost    | *.objects.cdn.dream.io/*       |
-| dreamhost    | *.objects-us-west-1.dream.io/* |
-| dropbox      | dropbox.com/sh/*               |
-| dropbox      | dl.dropbox.com/*               |
-| gcp          | \*.storage.googleapis.com/*    |
-| rackspace    | \*.rackcdn.com/*               |
+|  Label       | Pattern                         |
+|--------------|---------------------------------|
+| aws          | \*.s3.amazonaws.com/*           |
+| azure        | onedrive.live.com/*             |
+| azure        | \*.1drv.com/*                   |
+| azure        | \*.blob.core.windows.net/*      |
+| digitalocean | \*.digitaloceanspaces.com/*     |
+| dreamhost    | \*.objects.cdn.dream.io/*       |
+| dreamhost    | \*.objects-us-west-1.dream.io/* |
+| dropbox      | dropbox.com/sh/*                |
+| dropbox      | dl.dropbox.com/*                |
+| gcp          | \*.storage.googleapis.com/*     |
+| rackspace    | \*.rackcdn.com/*                |
 
 # Feedback and changes
 Feel free to use Github issues and pull requests to suggest changes or
