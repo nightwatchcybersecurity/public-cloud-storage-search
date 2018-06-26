@@ -28,6 +28,7 @@ example: "site:rackcdn.com".
 | digitalocean | \*.digitaloceanspaces.com/*     |
 | dreamhost    | \*.objects.cdn.dream.io/*       |
 | dreamhost    | \*.objects-us-west-1.dream.io/* |
+| dropbox      | dropbox.com/s/*                 |
 | dropbox      | dropbox.com/sh/*                |
 | dropbox      | dl.dropbox.com/*                |
 | gcp          | \*.storage.googleapis.com/*     |
