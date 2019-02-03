@@ -27,6 +27,7 @@ example: "site:rackcdn.com".
 | azure        | \*.blob.core.windows.net/*      |
 | digitalocean | \*.digitaloceanspaces.com/*     |
 | dreamhost    | \*.objects.cdn.dream.io/*       |
+| dreamhost    | \*.objects-us-east-1.dream.io/* |
 | dreamhost    | \*.objects-us-west-1.dream.io/* |
 | dropbox      | dropbox.com/s/*                 |
 | dropbox      | dropbox.com/sh/*                |
