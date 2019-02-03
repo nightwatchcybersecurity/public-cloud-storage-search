@@ -33,6 +33,7 @@ example: "site:rackcdn.com".
 | dropbox      | dropbox.com/sh/*                |
 | dropbox      | dl.dropbox.com/*                |
 | gcp          | \*.storage.googleapis.com/*     |
+| rackspace    | \*.clouddrive.com/*             |
 | rackspace    | \*.rackcdn.com/*                |
 
 # Feedback and changes
