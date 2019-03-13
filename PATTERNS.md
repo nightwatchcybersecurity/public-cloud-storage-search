@@ -7,6 +7,7 @@ being show as separate tabs in the UI.
 |--------------|------------------------------------|
 | aws          | Amazon's S3 service                |
 | azure        | Azure Blob storage and OneDrive    |
+| box.         | Box.com shared links               |
 | digitalocean | DigitalOcean Spaces                |
 | dreamhost    | DreamHost objects                  |
 | dropbox      | Dropbox downloads and shared files |
@@ -25,6 +26,8 @@ example: "site:rackcdn.com".
 | azure        | onedrive.live.com/*             |
 | azure        | \*.1drv.com/*                   |
 | azure        | \*.blob.core.windows.net/*      |
+| box          | \*.app.box.com/s/*              |
+| box          | \*.app.box.com/v/*              |
 | digitalocean | \*.digitaloceanspaces.com/*     |
 | dreamhost    | \*.objects.cdn.dream.io/*       |
 | dreamhost    | \*.objects-us-east-1.dream.io/* |
