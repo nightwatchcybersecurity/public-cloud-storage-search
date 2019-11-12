@@ -14,6 +14,7 @@ being show as separate tabs in the UI.
 | dropbox      | Dropbox downloads and shared files |
 | gcp          | Google's Cloud Storage             |
 | ibm          | IBM Cloud Object Storage           |
+| linode       | Linode Object Storage              |
 | rackspace    | Rackspace Files                    |
 | wasabi       | Wasabi Cloud Object Storage        |
 
@@ -43,6 +44,7 @@ example: "site:rackcdn.com".
 | dropbox      | dl.dropbox.com/*                           |
 | gcp          | \*.storage.googleapis.com/*                |
 | ibm          | \*.cloud-object-storage.appdomain.cloud/*  |
+| linode       | \*.us-east-1.linodeobjects.com/*           |
 | rackspace    | \*.clouddrive.com/*                        |
 | rackspace    | \*.rackcdn.com/*                           |
 | wasabi       | \*.s3.wasabisys.com/*                      |
