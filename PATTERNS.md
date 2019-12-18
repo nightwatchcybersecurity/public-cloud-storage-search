@@ -15,6 +15,7 @@ being show as separate tabs in the UI.
 | gcp          | Google's Cloud Storage             |
 | ibm          | IBM Cloud Object Storage           |
 | linode       | Linode Object Storage              |
+| mailru       | Mail.ru Cloud Services (MCS)       |
 | rackspace    | Rackspace Files                    |
 | wasabi       | Wasabi Cloud Object Storage        |
 
@@ -44,7 +45,8 @@ example: "site:rackcdn.com".
 | dropbox      | dl.dropbox.com/*                           | [site:dl.dropbox.com](https://www.google.com/search?q=site%3Adl.dropbox.com)
 | gcp          | \*.storage.googleapis.com/*                | [site:storage.googleapis.com](https://www.google.com/search?q=site%3Astorage.googleapis.com)
 | ibm          | \*.cloud-object-storage.appdomain.cloud/*  | [site:cloud-object-storage.appdomain.cloud](https://www.google.com/search?q=site%3Acloud-object-storage.appdomain.cloud)
-| linode       | \*.us-east-1.linodeobjects.com/*           | [site:us-east-1.linodeobjects.com](https://www.google.com/search?q=site%3Aus-east-1.linodeobjects.com)
+| linode       | \*.hb.bizmrg.com/*                         | [site:hb.bizmrg.com](https://www.google.com/search?q=site%3Ahb.bizmrg.com)
+| mailru       | \*.us-east-1.linodeobjects.com/*           | [site:us-east-1.linodeobjects.com](https://www.google.com/search?q=site%3Aus-east-1.linodeobjects.com)
 | rackspace    | \*.clouddrive.com/*                        | [site:clouddrive.com](https://www.google.com/search?q=site%3Aclouddrive.com)
 | rackspace    | \*.rackcdn.com/*                           | [site:rackcdn.com](https://www.google.com/search?q=site%3Arackcdn.com)
 | wasabi       | \*.s3.wasabisys.com/*                      | [site:s3.wasabisys.com](https://www.google.com/search?q=site%3As3.wasabisys.com)
