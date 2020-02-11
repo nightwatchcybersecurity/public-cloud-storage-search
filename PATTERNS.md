@@ -28,6 +28,7 @@ example: "site:rackcdn.com".
 |  Label       | Pattern                                    | Google Search       |
 |--------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------
 | aws          | \*.s3.amazonaws.com/*                      | [site:s3.amazonaws.com](https://www.google.com/search?q=site%3As3.amazonaws.com)
+| aws          | \*.s3-accelerate.amazonaws.com/*           | [site:s3-accelerate.amazonaws.com](https://www.google.com/search?q=site%3As3-accelerate.amazonaws.com)
 | azure        | onedrive.live.com/*                        | [site:onedrive.live.com](https://www.google.com/search?q=site%3Aonedrive.live.com)
 | azure        | \*.1drv.com/*                              | [site:1drv.com](https://www.google.com/search?q=site%3A1drv.com)
 | azure        | \*.blob.core.windows.net/*                 | [site:blob.core.windows.net](https://www.google.com/search?q=site%3Ablob.core.windows.net)
