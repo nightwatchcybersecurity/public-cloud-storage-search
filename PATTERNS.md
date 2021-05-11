@@ -17,6 +17,7 @@ being show as separate tabs in the UI.
 | linode       | Linode Object Storage              |
 | mailru       | Mail.ru Cloud Services (MCS)       |
 | rackspace    | Rackspace Files                    |
+| yandex       | Yandex Cloud                       |
 | wasabi       | Wasabi Cloud Object Storage        |
 
 # Search Patterns
@@ -50,6 +51,7 @@ example: "site:rackcdn.com".
 | mailru       | \*.hb.bizmrg.com/*                         | [site:hb.bizmrg.com](https://www.google.com/search?q=site%3Ahb.bizmrg.com)
 | rackspace    | \*.clouddrive.com/*                        | [site:clouddrive.com](https://www.google.com/search?q=site%3Aclouddrive.com)
 | rackspace    | \*.rackcdn.com/*                           | [site:rackcdn.com](https://www.google.com/search?q=site%3Arackcdn.com)
+| yandex       | \*.storage.yandexcloud.net/*               | [site:storage.yandexcloud.net](https://www.google.com/search?q=site%3Astorage.yandexcloud.net)
 | wasabi       | \*.s3.wasabisys.com/*                      | [site:s3.wasabisys.com](https://www.google.com/search?q=site%3As3.wasabisys.com)
 
 # Feedback and changes
