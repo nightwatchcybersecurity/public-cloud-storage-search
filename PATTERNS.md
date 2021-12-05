@@ -12,6 +12,7 @@ being show as separate tabs in the UI.
 | digitalocean | DigitalOcean Spaces                |
 | dreamhost    | DreamHost objects                  |
 | dropbox      | Dropbox downloads and shared files |
+| filebase     | Filebase Blockchain Object Storage |
 | gcp          | Google's Cloud Storage             |
 | ibm          | IBM Cloud Object Storage           |
 | linode       | Linode Object Storage              |
@@ -45,6 +46,7 @@ example: "site:rackcdn.com".
 | dropbox      | dropbox.com/s/*                            | [site:dropbox.com/s/](https://www.google.com/search?q=site%3Adropbox.com/s/)
 | dropbox      | dropbox.com/sh/*                           | [site:dropbox.com/sh/](https://www.google.com/search?q=site%3Adropbox.com/sh/)
 | dropbox      | dl.dropbox.com/*                           | [site:dl.dropbox.com](https://www.google.com/search?q=site%3Adl.dropbox.com)
+| filebase     | \*.s3.filebase.com/*                       | [site:s3.filebase.com](https://www.google.com/search?q=site%3As3.filebase.com)
 | gcp          | \*.storage.googleapis.com/*                | [site:storage.googleapis.com](https://www.google.com/search?q=site%3Astorage.googleapis.com)
 | ibm          | \*.cloud-object-storage.appdomain.cloud/*  | [site:cloud-object-storage.appdomain.cloud](https://www.google.com/search?q=site%3Acloud-object-storage.appdomain.cloud)
 | linode       | \*.us-east-1.linodeobjects.com/*           | [site:us-east-1.linodeobjects.com](https://www.google.com/search?q=site%3Aus-east-1.linodeobjects.com)
