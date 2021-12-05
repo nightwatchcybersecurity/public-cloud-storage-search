@@ -1,6 +1,22 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2021-12-04
+### Added
+- Added patterns for Filebase
+
+## 2021-05-11
+### Added
+- Added patterns for Yandex Cloud
+
+## 2020-02-11
+### Added
+- Added new S3 endpoints for AWS
+
+## 2019-12-18
+### Added
+- Added patterns for Mail.ru Cloud Services
+
 ## 2019-11-11
 ### Added
 - Added patterns for Linode Object Storage
