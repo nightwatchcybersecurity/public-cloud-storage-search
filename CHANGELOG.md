@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2022-01-03
+### Added
+- Added patterns for Vultr
+
 ## 2021-12-04
 ### Added
 - Added patterns for Filebase

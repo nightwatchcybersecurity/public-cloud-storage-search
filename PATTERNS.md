@@ -19,6 +19,7 @@ being show as separate tabs in the UI.
 | mailru       | Mail.ru Cloud Services (MCS)       |
 | rackspace    | Rackspace Files                    |
 | yandex       | Yandex Cloud                       |
+| vultr        | Vultr Object Storage               |
 | wasabi       | Wasabi Cloud Object Storage        |
 
 # Search Patterns
@@ -54,6 +55,7 @@ example: "site:rackcdn.com".
 | rackspace    | \*.clouddrive.com/*                        | [site:clouddrive.com](https://www.google.com/search?q=site%3Aclouddrive.com)
 | rackspace    | \*.rackcdn.com/*                           | [site:rackcdn.com](https://www.google.com/search?q=site%3Arackcdn.com)
 | yandex       | \*.storage.yandexcloud.net/*               | [site:storage.yandexcloud.net](https://www.google.com/search?q=site%3Astorage.yandexcloud.net)
+| vultr        | \*.vultrobjects.com/*                      | [site:vultrobjects.com](https://www.google.com/search?q=site%3Avultrobjects.com)
 | wasabi       | \*.s3.wasabisys.com/*                      | [site:s3.wasabisys.com](https://www.google.com/search?q=site%3As3.wasabisys.com)
 
 # Feedback and changes
