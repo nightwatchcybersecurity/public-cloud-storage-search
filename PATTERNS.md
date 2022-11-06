@@ -9,6 +9,8 @@ being show as separate tabs in the UI.
 | azure        | Azure Blob storage and OneDrive    |
 | backblaze    | Backblaze B2 Cloud Storage         |
 | box          | Box.com shared links               |
+| clevercloud  | Clever Cloud Cellar                |
+| cloudflare   | CloudFlare R2 storage              |
 | digitalocean | DigitalOcean Spaces                |
 | dreamhost    | DreamHost objects                  |
 | dropbox      | Dropbox downloads and shared files |
@@ -40,7 +42,7 @@ example: "site:rackcdn.com".
 | box          | \*.app.box.com/s/*                         | [site:app.box.com/s/](https://www.google.com/search?q=site%3Aapp.box.com/s/)
 | box          | \*.app.box.com/v/*                         | [site:app.box.com/v/](https://www.google.com/search?q=site%3Aapp.box.com/v/)
 | box          | \*.app.box.net/s/*                         | [site:app.box.net/s/](https://www.google.com/search?q=site%3Aapp.box.net/s/)
-| cleverclud   | \*.cellar-c2.services.clever-cloud.com/*   | [site:cellar-c2.services.clever-cloud.com](https://www.google.com/search?q=site%3Acellar-c2.services.clever-cloud.com)
+| clevercloud  | \*.cellar-c2.services.clever-cloud.com/*   | [site:cellar-c2.services.clever-cloud.com](https://www.google.com/search?q=site%3Acellar-c2.services.clever-cloud.com)
 | cloudflare   | \*.r2.dev/*                                | [site:r2.dev](https://www.google.com/search?q=site%3Ar2.dev)
 | digitalocean | \*.digitaloceanspaces.com/*                | [site:digitaloceanspaces.com](https://www.google.com/search?q=site%3Adigitaloceanspaces.com)
 | dreamhost    | \*.objects.cdn.dream.io/*                  | [site:objects.cdn.dream.io](https://www.google.com/search?q=site%3Aobjects.cdn.dream.io)
