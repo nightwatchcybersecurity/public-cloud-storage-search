@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 ## 2022-11-06
 ### Added
 - Added patterns for Clever Cloud and CloudFlare R2
+- Added pattern for Firebase storage
 
 ## 2022-01-03
 ### Added
